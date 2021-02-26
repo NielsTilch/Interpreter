@@ -1,0 +1,4 @@
+$ mkdir Bonjour
+< Bonjour
+$ rm -d Bonjour
+$ touch
