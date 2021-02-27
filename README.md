@@ -8,7 +8,7 @@ Création d'un interpréteur (sous le langage C)
 
 ## Exécution 
 
-(Description en cours)
+(Fichier Makefile et description en cours de création ...)
 
 ## Rapport
 
